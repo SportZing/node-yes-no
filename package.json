@@ -1,6 +1,6 @@
 {
   "name": "yes-no",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tiny module for parsing \"yes\"/\"no\" type values",
   "main": "lib/index.js",
   "scripts": {
